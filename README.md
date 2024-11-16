@@ -1,5 +1,5 @@
 # E-commerce Sales Dashboard
-# Created interactive dashboard to track and analyze online sales data .
+
 ## About the Project
 #### Created interactive dashboard to track and analyze online sales data .
 This Power BI dashboard provides a comprehensive view of e-commerce sales performance. It includes key metrics and visualizations to help track and analyze:
@@ -16,6 +16,8 @@ This Power BI dashboard provides a comprehensive view of e-commerce sales perfor
 - **Dynamic KPIs**: Key performance indicators are dynamically updated based on user selection.
 - **Insights-Driven Layout**: Designed to help stakeholders make data-driven decisions.
 ### Used different types of customized visualisation (bar chart,pie chart,donut chart,clustered bar chart,scatter chart,line chart,area chart,map,slicers,etc).
+
+
 ![image](https://github.com/user-attachments/assets/aebdf4b9-b8e5-4302-85fa-cf1205fffc3c)
 
 
